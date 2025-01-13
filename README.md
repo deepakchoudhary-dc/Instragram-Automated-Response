@@ -1,4 +1,4 @@
-#Instagram Auto Responder
+#Instragram-Automated-Response
 📬 Instagram Auto Responder
 Instagram Auto Responder is a powerful tool that automates direct message replies on your Instagram account, including your spam inbox, using the mobile private API.
 
