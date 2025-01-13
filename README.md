@@ -33,7 +33,9 @@ After running login.py, a configuration file will be created in the accounts dir
 
 json
 
+
 {
+
     "account": "your_instagram_username",
     "data": {
         "device_id": "your_device_id",
@@ -43,6 +45,7 @@ json
     },
     "num_replies": 5,
     "messages": ["Message 1", "Message 2", "Message 3"]
+    
 }
 account: Your Instagram username.
 data: Contains your device and authentication details.
