@@ -1,4 +1,4 @@
-#Instragram-Automated-Response
+# Instragram-Automated-Response
 📬 Instagram Auto Responder
 Instagram Auto Responder is a powerful tool that automates direct message replies on your Instagram account, including your spam inbox, using the mobile private API.
 
@@ -16,12 +16,11 @@ pip install -r requirements.txt
 Clone the repository to your local machine:
 
 bash
-Copy code
-git clone https://github.com/your-username/instagram-auto-responder.git
+Copy codegit clone https://github.com/your-username/instagram-auto-responder.git
 Install required libraries:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 Login to your Instagram account:
 Run login.py to begin the login process. On the first run, this will guide you through the authentication and generate a configuration file in the accounts directory.
@@ -33,7 +32,7 @@ After successfully logging in, you can run the main.py script to begin the auto-
 After running login.py, a configuration file will be created in the accounts directory, which contains your Instagram login credentials and settings for the auto responder. The file will look like this:
 
 json
-Copy code
+
 {
     "account": "your_instagram_username",
     "data": {
